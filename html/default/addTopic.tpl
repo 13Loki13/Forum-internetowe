@@ -1,4 +1,4 @@
-
+[not-group=0]
 <div class="topBelow" style="text-align: left;">
 	<div class="cattitle" style="width:98%; padding-left: 2%;  float: left;">Dodaj nowy temat.</div>
 </div>
@@ -23,3 +23,12 @@
 <div style="width: 100% margin: 0 auto; text-align: center; margin-bottom: 0px;">
 	<input type="submit" name="send" style="border-radius: 9px; margin-bottom: 12px; " value="Dodaj temat" />
 </div>
+</form>
+{result}
+[/not-group]
+[group=0]
+<script>
+	alert("Jesteś niezalogowany!\nZaloguj się aby móc dodawać tematy.");
+	window.history.back();
+</script>
+[/group]

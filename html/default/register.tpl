@@ -13,6 +13,7 @@
 			<div style="clear: both; margin-bottom: 25px;"></div>
 
 			<div style="margin: 0 auto; text-align: center;"><input style="padding: 4px; border-radius: 6px;" type="submit" name="send" value="Wyślij formularz" /></div>
-		
+		</form>
+		<span style="text-align: center; width: 100%; margin-top: 20px;">{result}</span>
 	</div>
 </div>

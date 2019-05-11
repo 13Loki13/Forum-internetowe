@@ -1,4 +1,4 @@
-
+[not-group=0]
 <div class="topBelow" style="text-align: left;">
 	<div class="cattitle" style="width:98%; padding-left: 2%;  float: left;">Dodaj odpowiedź do tematu.</div>
 </div>
@@ -15,3 +15,9 @@
 <div style="width: 100% margin: 0 auto; text-align: center; margin-bottom: 0px;">
 	<input type="submit" name="send" style="border-radius: 9px; margin-bottom: 12px;" value="Dodaj odpowiedź" />
 </div>
+</form>
+{result}
+[/not-group]
+[group=0]
+<center><div style="padding-bottom: 5px; color: red; font-size: 18px;"><i>Aby móc dodawać komentarze musisz być zalogowany.</i></div></center>
+[/group]
