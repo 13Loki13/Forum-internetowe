@@ -80,7 +80,7 @@ class Template
 
 		foreach($this->constContrainer as $value)
 		{		
-			$this->currentValue = str_replace('{' . $value->getName() . '}', $value->getValue(), $this->currentValue);
+			$this->currentValue = str_replace('{' . $value->getName() . '}', $value->getValue(), $this->currentValue); // 1 parametr pokazuje co zatępujemy, 2 par na co, 3 par w czym zastępujemy
 		}
 
 
