@@ -132,7 +132,7 @@
 				[/not-group]
 				[group=3]<div class="button"><a href="/admin.php">Panel Admina</a></div>[/group]
 				[group=2]<div class="button"><a href="/admin.php">Panel Moderatora</a></div>[/group]
-				<div class="button"><a href="">Kontakt</a></div>
+				<div class="button"><a href="/contact.php">Kontakt</a></div>
 				<div class="button"><a href="">Regulamin</a></div>
 				[not-group=0]
 				<div class="button"><a href="/login.php?logout=true">Wyloguj</a></div>
