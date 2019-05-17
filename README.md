@@ -1,4 +1,4 @@
-Forum internetowe o informatyce na projekt zaliczeniowy. <br/>
+Forum internetowe o informatyce, projekt zaliczeniowy. <br/>
 
 Konfiguracja:<br/>
 Konfigurację można dokonać w pliku /engine/config.php, znajdują się tam dane logowania do MySQL<br/>
